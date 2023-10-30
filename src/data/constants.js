@@ -18,8 +18,7 @@ export const Bio = {
   whatsapp: "https://wa.me/919096472291",
   email: "ayushkumbhalkar24@gmail.com",
   hackerrank: "https://www.hackerrank.com/profile/ayushkumbhalkar1",
-  github: "https://github.com/AyushKumbhalkar"
-  ,
+  github: "https://github.com/AyushKumbhalkar",
 };
 
 export const skills = [

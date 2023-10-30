@@ -1,5 +1,5 @@
 {
-
+"homepage": "https://AyushKumbhalkar.github.io/Portfolio-Ayush",
     "name": "portfolio",
 
     "version": "0.1.0",
@@ -57,6 +57,10 @@
     "scripts": {
 
         "start": "react-scripts start",
+
+        "predeploy" : "npm run build",
+
+        "deploy" :"gh-pages -d build",
 
         "build": "react-scripts build",
 

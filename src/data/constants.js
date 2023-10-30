@@ -13,12 +13,12 @@ export const Bio = {
   ),
 
   resume:
-    "https://drive.google.com/file/d/1ALvQZbYd3clOCxL6zNXGVtUqkaj2wlJJ/view",
+    "https://drive.google.com/file/d/1b8bW6FLUZFdaiCwE_cM9w1z7b7vygjyu/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/public-profile/settings",
   whatsapp: "https://wa.me/919096472291",
   email: "ayushkumbhalkar24@gmail.com",
   hackerrank: "https://www.hackerrank.com/profile/ayushkumbhalkar1",
-  github: "https://github.com/AyushKumbhalakr",
+  github: "https://github.com/AyushKumbhalkar",
 };
 
 export const skills = [

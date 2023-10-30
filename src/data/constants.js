@@ -13,7 +13,7 @@ export const Bio = {
   ),
 
   resume:
-    "https://drive.google.com/file/d/1b8bW6FLUZFdaiCwE_cM9w1z7b7vygjyu/view?usp=drive_link",
+    "https://drive.google.com/file/d/1b8bW6FLUZFdaiCwE_cM9w1z7b7vygjyu/view",
   linkedin: "https://www.linkedin.com/public-profile/settings",
   whatsapp: "https://wa.me/919096472291",
   email: "ayushkumbhalkar24@gmail.com",

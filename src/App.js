@@ -6,6 +6,7 @@ import HeroSection from "./components/MainBG";
 import Navbar from "./components/Navbar";
 import Skills from "./components/Skills";
 import { customTheme, darkTheme, lightTheme } from "./utils/Themes.js";
+import Projects from "./components/projects";
 
 import Footer from "./components/Footer";
 
@@ -57,10 +58,14 @@ function App() {
           <Wrapper>
             <Skills />
           </Wrapper>
-
+ 
+          <Wrapper>
+            <Projects />
+          </Wrapper>
           <Wrapper>
             <UserForm />
           </Wrapper>
+          
           <Footer />
         </Body>
       </Router>

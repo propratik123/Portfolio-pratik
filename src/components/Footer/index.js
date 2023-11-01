@@ -1,6 +1,6 @@
 import LinkedInIcon from "@mui/icons-material/LinkedIn";
 import { BsGithub } from "react-icons/bs";
-import { FaHackerrank } from "react-icons/fa";
+import { SiLeetcode } from "react-icons/si";
 import { HiOutlineMail } from "react-icons/hi";
 import { IoLogoWhatsapp } from "react-icons/io5";
 import styled from "styled-components";
@@ -104,8 +104,8 @@ function Footer() {
             <HiOutlineMail />
           </SocialMediaIcon>
 
-          <SocialMediaIcon href={Bio.hackerrank} target="display">
-            <FaHackerrank />
+          <SocialMediaIcon href={Bio.leetcode} target="display">
+            <SiLeetcode />
           </SocialMediaIcon>
 
           <SocialMediaIcon href={Bio.github} target="display">
@@ -113,7 +113,7 @@ function Footer() {
           </SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
-          &copy; 2023 Ayush Kumbhalkar. All rights reserved.
+          &copy; 2023 Pratik Petkar. All rights reserved.
         </Copyright>
       </FooterWrapper>
     </FooterContainer>

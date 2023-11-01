@@ -34,7 +34,7 @@ const Navbar = () => {
               cursor: "pointer",
             }}
           >
-            <FiPhoneCall size="1rem" /> <Span>+91 9096472291</Span>
+            <FiPhoneCall size="1rem" /> <Span>+91 9752554845</Span>
           </a>
         </NavLogo>
 
@@ -55,7 +55,7 @@ const Navbar = () => {
           </NavLink>
 
           <NavLink href="#about">
-            <TfiEmail size={20} /> ayushkumbhalkar24@gmail.com
+            <TfiEmail size={20} /> pratikpetkar231@gmail.com
           </NavLink>
         </NavItems>
 

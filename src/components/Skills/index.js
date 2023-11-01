@@ -37,15 +37,7 @@ export const Title = styled.div`
   }
 `;
 
-export const Desc = styled.div`
-  font-size: 18px;
-  text-align: center;
-  max-width: 600px;
-  color: ${({ theme }) => theme.text_secondary};
-  @media (max-width: 768px) {
-    font-size: 16px;
-  }
-`;
+
 
 const SkillsContainer = styled.div`
   width: 100%;
@@ -120,8 +112,7 @@ const Skills = () => {
   return (
     <Container id="skills">
       <Wrapper>
-        <Title>Skills</Title>
-        <Desc>My skills.</Desc>
+        <Title>My Skills</Title>
         <SkillsContainer>
           {skills.map((skill) => (
             <Skill>
